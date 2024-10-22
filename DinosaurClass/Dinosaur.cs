@@ -23,7 +23,7 @@ namespace DinosaurClass
 
         public void Roar()
         {
-            Console.WriteLine($"ROAR! IM {Name}, IM ALSO A {Species}, I EAT {Diet}, AND IM {Age} OLD.s");
+            Console.WriteLine($"ROAR! IM {Name}, IM ALSO A {Species}, I AM A {Diet}, AND IM {Age} OLD.s");
         }
 
 

@@ -10,9 +10,9 @@ namespace DinosaurClass
     {
         static void Main(string[] args)
         {
-            var dino1 = new Dinosaur("T-Rex", "Tyrannosaurus Rex", "Carnivore", 65);
-            var dino2 = new Dinosaur("Stegosaurus", "Stegosaurus", "Herbivore", 155);
-            var dino3 = new Dinosaur("Velociraptor", "Velociraptor", "Carnivore", 85);  
+            var dino1 = new Dinosaur("Short Arms", "T-Rex", "Carnivore", 65);
+            var dino2 = new Dinosaur("Leaf Eater", "Stegosaurus", "Herbivore", 155);
+            var dino3 = new Dinosaur("I am Acid Spitter Jurasic Park 1 Villian", "Velociraptor", "Carnivore", 85);  
 
             dino1.Display();
             dino1.Roar();
